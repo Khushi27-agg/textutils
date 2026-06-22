@@ -84,7 +84,6 @@ function App() {
 
   return (
     <>
-      {' '}
       <Navbar title="TextUtils" theme={theme} changeTheme={changeTheme} />
       <Alert alert={alert} />
       <div className="container my-3">
