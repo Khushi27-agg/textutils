@@ -34,7 +34,7 @@ TextUtils is a React-based text utility application that helps users analyze and
 Clone the repository:
 
 ```bash
-git clone https://github.com/Khushi27-agg/textUtils.git
+git clone https://github.com/Khushi27-agg/textutils.git
 ```
 
 Navigate to the project folder:
