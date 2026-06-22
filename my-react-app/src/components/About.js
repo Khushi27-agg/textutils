@@ -1,8 +1,10 @@
 import React from 'react';
-function About() {
+export default function About(props) {
   return (
     <>
-      <div>
+      <div style={{
+        color: props.theme.text
+      }}>
         <h1>About Us</h1>
         <p>
           <b>Welcome to TextUtils</b>, your simple and efficient text-processing
@@ -35,4 +37,3 @@ function About() {
     </>
   );
 }
-export default About;
